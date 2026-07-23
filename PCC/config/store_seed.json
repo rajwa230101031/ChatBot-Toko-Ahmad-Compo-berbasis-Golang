@@ -1,0 +1,18 @@
+{
+  "store_name": "Toko Ahmad Computer",
+  "timezone": "Asia/Jakarta",
+  "entries": [
+    { "day_of_week": 1, "open_time": "09:00", "close_time": "17:00", "is_closed": false },
+    { "day_of_week": 2, "open_time": "09:00", "close_time": "17:00", "is_closed": false },
+    { "day_of_week": 3, "open_time": "09:00", "close_time": "17:00", "is_closed": false },
+    { "day_of_week": 4, "open_time": "09:00", "close_time": "17:00", "is_closed": false },
+    { "day_of_week": 5, "open_time": "09:00", "close_time": "17:00", "is_closed": false },
+    { "day_of_week": 6, "open_time": "09:00", "close_time": "14:00", "is_closed": false },
+    { "day_of_week": 0, "open_time": "00:00", "close_time": "00:00", "is_closed": true }
+  ],
+  "bot_setting": {
+    "greeting_template": "Halo, selamat datang di Toko Ahmad Computer!\nKetik 'Produk' untuk melihat katalog atau 'Konsultasi' untuk berbicara dengan admin.",
+    "closed_message_template": "Terima kasih sudah menghubungi Toko Ahmad Computer. Saat ini toko sedang TUTUP. Jam operasional: Senin–Jumat 09:00–17:00, Sabtu 09:00–14:00. Pesan Anda akan kami balas saat jam buka.",
+    "admin_numbers": ""
+  }
+}
